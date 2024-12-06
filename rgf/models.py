@@ -3,7 +3,7 @@ import time
 import copy
 
 
-os.environ["OPENAI_API_KEY"]= "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"
+os.environ["OPENAI_API_KEY"]= "YOUR-KEY"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
 time_gap = {"gpt-4": 3, "gpt-3.5-turbo": 0.5}
