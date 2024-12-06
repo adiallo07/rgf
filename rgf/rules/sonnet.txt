@@ -1,0 +1,9 @@
+1. The sonnet must consist of exactly 14 lines.
+2. Strictly follow the specified rhyme ABAB CDCD EFEF GG scheme throughout all 14 lines.
+3. Include all the given words within the sonnet.
+4. Adhere to the traditional structure associated with the chosen rhyme scheme (Shakespearean).
+5. Ensure that each line contributes coherently to the overall theme or message of the sonnet.
+6. Use the given words naturally, without forcing them into the lines.
+7. Ensure proper punctuation and capitalization are used to enhance readability and flow.
+8. The number of allowed syllables per line is 10 or 11.
+9. The performer is allowed to ask one clarifying question, but it cannot be a repetition of the original question.

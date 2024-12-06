@@ -1,0 +1,10 @@
+1. All provided chess moves must be written in Standard Algebraic Notation (SAN).
+2. The sequence of moves must accurately reflect a valid game progression up to the current position.
+3. The next move must result in an immediate checkmate of the opponent's king.
+4. The proposed move must comply with the official rules of chess, including correct piece movement and capturing mechanisms.
+5. Only one move should be provided as the solution, representing the checkmating move.
+6. The move must be legal in the given position and must not leave the player's own king in check.
+7. If the checkmate involves special moves (such as castling, en passant, or pawn promotion), the notation must correctly represent these moves.
+8. Disambiguation in SAN must be used correctly when multiple identical pieces can move to the same square (e.g., Nbd7).
+9. The solution must demonstrate that no additional moves are required after the proposed move to achieve checkmate.
+10. The performer is allowed to ask one clarifying question, but it cannot be a repetition of the original question.

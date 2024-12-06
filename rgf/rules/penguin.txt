@@ -1,0 +1,10 @@
+1. Each table must have a header row with clearly labeled columns.
+2. Each subsequent row represents one penguin with corresponding attribute values.
+3. Attribute names in questions must exactly match those in the table headers.
+4. Questions must be answerable solely using the information provided in the table(s).
+5. Numerical values (age, height, weight) must be interpreted and compared accurately.
+6. Units of measurement (e.g., cm, kg) must be correctly used in both questions and answers.
+7. When comparing attributes, ensure that the relationships (e.g., taller than) are correctly determined based on the data.
+8. If multiple tables are present, clearly reference the correct table when answering questions about specific penguins.
+9. All answers must be clear, concise, and directly derived from the table data without introducing external information.
+10. The performer is allowed to ask one clarifying question, but it cannot be a repetition of the original question.
