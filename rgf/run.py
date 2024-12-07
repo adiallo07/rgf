@@ -5,7 +5,6 @@ import pickle
 
 from tqdm import tqdm
 
-# Importing the necessary modules from the Verified Thoughts framework
 from tasks import get_task
 from method import converse, naive_converse
 from evaluate_outputs import evaluate_performance
